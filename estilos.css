@@ -8,3 +8,10 @@ header {
     text-align: center;
     color: #4a2c11;
 }
+
+#promociones {
+    background-color: #fff3cd;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ffeeba;
+}
